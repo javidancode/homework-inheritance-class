@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.exe
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.deps.json
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.runtimeconfig.json
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.dll
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\bin\Debug\netcoreapp3.1\homework inheritance class.pdb
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.dll
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.pdb
+C:\Users\ASUS\source\repos\homework inheritance class\homework inheritance class\homework inheritance class\obj\Debug\netcoreapp3.1\homework inheritance class.genruntimeconfig.cache
